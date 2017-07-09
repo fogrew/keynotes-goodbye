@@ -24,10 +24,10 @@ img.cover {
   color: #eee;
 }
 .slide.bad {
-  background-color: #ffeeee;
+  background-color: #ffdddd;
 }
 .slide.good {
-  background-color: #eeffee;
+  background-color: #ddffdd;
 }
 
 .place {
