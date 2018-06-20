@@ -1,2 +1,2 @@
-# keynotes-date
-Slides of presentation for my lesson about javascript date in Epic Skills
+# keynotes-goodbye
+Slides of presentation for my finish lesson about REAL LIFE AFTER SCHOOL
